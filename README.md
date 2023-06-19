@@ -1,6 +1,5 @@
 # Helmet - Project
-Este projeto utiliza o framework Angular com Material.
-
+Neste projeto, utilizei o framework Angular em conjunto com o Material Design. Desenvolvi essa aplicação como parte da finalização do semestre no curso de Programação Orientada a Objetos na faculdade de Engenharia de Software. Além de cumprir com os requisitos acadêmicos, aproveitei a oportunidade para aprofundar meu conhecimento sobre o Angular e suas peculiaridades. Também criei um mock para simular uma API, buscando tornar o projeto mais profissional e completo.</br></br>
 Login
 email: owner@helmet.com </br> senha: kimano123
 
